@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/BP_FPCharacter.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/IMC_Default.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/inputActions/_Move.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/FC/AYFEHKV54I0LKVOAFDZ4TZ.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/FrameWork/BP_GameMode.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/inputActions/IA_Jump.uasset",
+				"C:/Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/inputActions/IA_Look.uasset"
+			]
+		}
+	]
+}

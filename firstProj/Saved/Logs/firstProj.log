@@ -2940,3 +2940,125 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.26-03.19.16:055][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4694.247070
 [2026.09.26-03.19.17:056][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.26-03.19.17:057][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4694.916504, Update Interval: 338.361755
+[2026.09.26-03.25.43:070][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5081.261230
+[2026.09.26-03.25.44:070][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.26-03.25.44:071][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5081.928223, Update Interval: 342.593475
+[2026.09.26-03.32.13:738][511]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5471.932129
+[2026.09.26-03.32.14:740][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.26-03.32.14:744][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5472.599609, Update Interval: 320.651276
+[2026.09.26-03.38.07:749][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5825.951172
+[2026.09.26-03.38.08:743][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.26-03.38.08:747][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5826.613281, Update Interval: 329.515686
+[2026.09.26-03.44.34:420][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6212.633301
+[2026.09.26-03.44.35:421][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.26-03.44.35:422][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6213.306641, Update Interval: 344.723053
+[2026.09.26-03.47.51:314][434]LogUObjectHash: Compacting FUObjectHashTables data took  22.63ms
+[2026.09.26-03.47.53:393][434]LogSlate: Window 'Save Content' being destroyed
+[2026.09.26-03.47.53:453][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.26-03.47.53:610][434]LogFileHelpers: Saving Package: /Game/FrameWork/BP_GameMode
+[2026.09.26-03.47.53:616][434]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FrameWork/BP_GameMode] ([2] browsable assets)...
+[2026.09.26-03.47.53:616][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/FrameWork/BP_GameMode]
+[2026.09.26-03.47.53:617][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FrameWork/BP_GameMode" FILE="../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/FrameWork/BP_GameMode.uasset" SILENT=true
+[2026.09.26-03.47.53:701][434]LogSavePackage: Moving output files for package: /Game/FrameWork/BP_GameMode
+[2026.09.26-03.47.53:701][434]LogSavePackage: Moving '../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Saved/BP_GameModeEEDE55D742E94AA1AAC536B1D1A3F93C.tmp' to '../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/FrameWork/BP_GameMode.uasset'
+[2026.09.26-03.47.53:763][434]LogFileHelpers: Saving Package: /Game/Blueprints/player/inputActions/IA_Jump
+[2026.09.26-03.47.53:763][434]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/player/inputActions/IA_Jump] ([1] browsable assets)...
+[2026.09.26-03.47.53:763][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/player/inputActions/IA_Jump]
+[2026.09.26-03.47.53:772][434]LogSavePackage: Moving output files for package: /Game/Blueprints/player/inputActions/IA_Jump
+[2026.09.26-03.47.53:772][434]LogSavePackage: Moving '../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Saved/IA_Jump9B76C98741534ED7282881B43578EBED.tmp' to '../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/inputActions/IA_Jump.uasset'
+[2026.09.26-03.47.53:776][434]LogFileHelpers: Saving Package: /Game/Blueprints/player/inputActions/IA_Look
+[2026.09.26-03.47.53:777][434]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/player/inputActions/IA_Look] ([1] browsable assets)...
+[2026.09.26-03.47.53:777][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/player/inputActions/IA_Look]
+[2026.09.26-03.47.53:784][434]LogSavePackage: Moving output files for package: /Game/Blueprints/player/inputActions/IA_Look
+[2026.09.26-03.47.53:784][434]LogSavePackage: Moving '../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Saved/IA_Look9C49129640D4B8B48E772588EE495C7B.tmp' to '../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Content/Blueprints/player/inputActions/IA_Look.uasset'
+[2026.09.26-03.47.53:800][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.013 ms (total: 2.39 sec)
+[2026.09.26-03.47.53:856][434]LogStall: Shutdown...
+[2026.09.26-03.47.53:873][434]LogStall: Shutdown complete.
+[2026.09.26-03.47.53:897][434]LogSlate: Window 'firstProj - Unreal Editor' being destroyed
+[2026.09.26-03.47.55:982][434]LogContentValidation: Enabled validators:
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.26-03.47.55:982][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.26-03.47.55:983][434]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.26-03.47.55:983][434]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.26-03.47.55:983][434]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.09.26-03.47.55:985][434]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.09.26-03.47.55:991][434]AssetCheck: /Game/FrameWork/BP_GameMode Validating asset
+[2026.09.26-03.47.55:992][434]AssetCheck: /Game/Blueprints/player/inputActions/IA_Jump Validating asset
+[2026.09.26-03.47.55:992][434]AssetCheck: /Game/Blueprints/player/inputActions/IA_Look Validating asset
+[2026.09.26-03.47.55:993][434]LogContentValidation: Validated asset counts for 9 validators:
+[2026.09.26-03.47.55:994][434]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.26-03.47.55:994][434]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.26-03.47.55:994][434]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.09.26-03.47.55:994][434]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.26-03.47.55:994][434]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.26-03.47.55:994][434]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.26-03.47.55:995][434]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.26-03.47.55:995][434]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.26-03.47.55:995][434]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.26-03.47.56:038][434]Cmd: QUIT_EDITOR
+[2026.09.26-03.47.56:038][434]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.26-03.47.56:040][434]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ayana/OneDrive/Documents/GitHub/GDWStuff/GDWVTut/firstProj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.26-03.47.56:065][435]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.26-03.47.56:079][435]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.26-03.47.56:080][435]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.26-03.47.56:173][435]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.26-03.47.56:184][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.26-03.47.56:185][435]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.09.26-03.47.56:231][435]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.09.26-03.47.56:295][435]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.26-03.47.56:412][435]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.26-03.47.56:553][435]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.26-03.47.56:563][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.26-03.47.56:568][435]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.26-03.47.56:568][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.26-03.47.56:605][435]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.26-03.47.56:617][435]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.26-03.47.56:911][435]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.09.26-03.47.56:911][435]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.26-03.47.56:912][435]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.09.26-03.47.56:913][435]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.26-03.47.56:918][435]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.09.26-03.47.56:970][435]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.26-03.47.57:037][435]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.26-03.47.57:037][435]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.26-03.47.57:281][435]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2026.09.26-03.47.57:362][435]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.26-03.47.57:366][435]LogExit: Preparing to exit.
+[2026.09.26-03.47.58:952][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2026.09.26-03.47.58:968][435]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.26-03.47.59:995][435]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 0 .ref files found, 0 referenced binaries
+[2026.09.26-03.47.59:995][435]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 0 total binaries, 0 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.26-03.48.00:035][435]LogEditorDataStorage: Deinitializing
+[2026.09.26-03.48.00:066][435]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.09.26-03.48.00:067][435]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.09.26-03.48.00:067][435]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.09.26-03.48.00:067][435]LogEditorDataStorage: Resetting TEDS Core.
+[2026.09.26-03.48.00:095][435]LogEditorDataStorage: Reset TEDS Core.
+[2026.09.26-03.48.00:095][435]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.09.26-03.48.01:035][435]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.26-03.48.01:360][435]LogExit: Editor shut down
+[2026.09.26-03.48.01:417][435]LogExit: Transaction tracking system shut down
+[2026.09.26-03.48.02:984][435]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.26-03.48.02:984][435]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.26-03.48.03:207][435]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.09.26-03.48.03:208][435]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.09.26-03.48.04:156][435]LogExit: Object subsystem successfully closed.
+[2026.09.26-03.48.04:286][435]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.09.26-03.48.05:218][435]LogObjectProfiler: Shutdown
+[2026.09.26-03.48.05:218][435]LogMemoryProfiler: Shutdown
+[2026.09.26-03.48.05:219][435]LogNetworkingProfiler: Shutdown
+[2026.09.26-03.48.05:219][435]LogLoadingProfiler: Shutdown
+[2026.09.26-03.48.05:220][435]LogTimingProfiler: Shutdown
+[2026.09.26-03.48.05:234][435]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.26-03.48.05:235][435]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.26-03.48.05:235][435]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.09.26-03.48.05:235][435]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.09.26-03.48.05:235][435]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.09.26-03.48.07:503][435]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.26-03.48.07:541][435]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.26-03.48.07:541][435]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A798012-4CA3-45C0-9C6B-558C64D4E1F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.3-58210709%2B%2B%2BUE5%2BRelease-5.8&UserID=8b6d4e24bd964f31b1863e4e81f96925%7C564af289bd2b498b8c1f4e500d80723c%7C2d43274f-a79e-40f8-82f0-8f13cbb8c774&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
